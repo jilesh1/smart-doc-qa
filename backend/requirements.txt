@@ -7,3 +7,4 @@ langchain-text-splitters
 sentence-transformers
 chromadb
 anthropic
+groq>=0.9.0
